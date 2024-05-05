@@ -1,4 +1,4 @@
-namespace QuartzMysqlProject
+namespace QuartzMysqlProject.Api
 {
     public class WeatherForecast
     {

@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace QuartzMysqlProject.Controllers
+
+namespace QuartzMysqlProject.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
